@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484988395266",
+    "firebase_url": "https://apploginemailpasswordfirebase.firebaseio.com",
+    "project_id": "apploginemailpasswordfirebase",
+    "storage_bucket": "apploginemailpasswordfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484988395266:android:9c1da7857a90ebe8bb6c1b",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484988395266-f0dtv0magudqqb4r1fs0ipgl98dqta7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registration",
+            "certificate_hash": "c0aac9112a87c9d700ecab4b96cc3991c0d5e480"
+          }
+        },
+        {
+          "client_id": "484988395266-v5ov987upedrcjanvcinjmor91qkoab0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmiLcHo7uQgL5X4BzJp1AxnNPS5J0eDNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484988395266-v5ov987upedrcjanvcinjmor91qkoab0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
